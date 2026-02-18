@@ -55,6 +55,6 @@ Selected projects will be published here soon.
 ---
 
 ## 📫 Contact
-- 📧 Email: joaispuro@hotmail.comç
+- 📧 Email: joaispuro@hotmail.com
 - 🔗 Linkedin: www.linkedin.com/in/josefina-aispuro-merelles-aa3b403a8
 
