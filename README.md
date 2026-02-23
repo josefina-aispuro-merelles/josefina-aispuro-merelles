@@ -1,6 +1,6 @@
 # Hi 👋 I'm Josefina Aispuro Merelles
 
-Junior Data Scientist with solid training in data analysis and machine learning, focused on building end-to-end solutions using real-world data.
+Data Scientist with solid training in data analysis and machine learning, focused on building end-to-end solutions using real-world data.
 
 ---
 
